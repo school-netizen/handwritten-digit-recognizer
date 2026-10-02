@@ -440,6 +440,7 @@ with left:
         height=350,
         width=350,
         drawing_mode="freedraw",
+        return_image_data=True,
         key="digit_canvas",
     )
 
